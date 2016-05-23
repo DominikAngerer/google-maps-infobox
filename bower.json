@@ -1,9 +1,9 @@
 {
-  "name": "google-maps-infobox",
+  "name": "google-maps-infobox-windowed",
   "version": "1.0",
-  "description": "An InfoBox behaves like a google.maps.InfoWindow, but it supports several additional properties for advanced styling. An InfoBox can also be used as a map label.",
+  "description": "An InfoBox behaves like a google.maps.InfoWindow, but it supports several additional properties for advanced styling. An InfoBox can also be used as a map label. Also it's available now as window.infoBox.",
   "authors": [
-    "Fabian Aumiller <mail@kmpkt.com>"
+    "Dominik Angerer <me@dominikangerer.com"
   ],
   "license": "Apache 2.0",
   "main": "infobox.js",
