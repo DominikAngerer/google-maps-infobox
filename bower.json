@@ -1,6 +1,6 @@
 {
   "name": "google-maps-infobox-windowed",
-  "version": "1.0",
+  "version": "1.1.13",
   "description": "An InfoBox behaves like a google.maps.InfoWindow, but it supports several additional properties for advanced styling. An InfoBox can also be used as a map label. Also it's available now as window.infoBox.",
   "authors": [
     "Dominik Angerer <me@dominikangerer.com"

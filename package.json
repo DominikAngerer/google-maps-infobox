@@ -1,6 +1,6 @@
 {
   "name": "google-maps-infobox",
-  "version": "1.0.0",
+  "version": "1.1.13",
   "description": "This repository and npm module only encapsulates the original script into a window variable so it can be used directly with TS loaded via 'shim', and doesn't modify it's source.",
   "main": "infobox.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "maps"
   ],
   "author": "DominikAngerer",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/DominikAngerer/google-maps-infobox/issues"
   },
