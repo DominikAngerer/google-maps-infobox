@@ -1,7 +1,7 @@
 {
-  "name": "google-maps-infobox",
+  "name": "google-maps-infobox-window",
   "version": "1.1.13",
-  "description": "This repository and npm module only encapsulates the original script into a window variable so it can be used directly with TS loaded via 'shim', and doesn't modify it's source.",
+  "description": "This repository and npm module only encapsulates the original script into a window variable...",
   "main": "infobox.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
