@@ -1,3 +1,10 @@
+/** 
+ * Check if google is already there - otherwise we can't use the
+ * google api not only on the page we need it without getting an
+ * error from this script
+ */ 
+if (typeof google === 'object' && typeof google.maps === 'object') {
+
 /**
  * @name InfoBox
  * @version 1.1.13 [March 19, 2014]
@@ -817,3 +824,5 @@ InfoBox.prototype.close = function () {
 };
 
 window.infoBox = InfoBox;
+
+}
