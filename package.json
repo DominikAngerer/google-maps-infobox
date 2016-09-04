@@ -1,6 +1,6 @@
 {
   "name": "google-maps-infobox-window",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This repository and npm module only encapsulates the original script into a window variable...",
   "main": "infobox.js",
   "scripts": {
